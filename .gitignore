@@ -1,0 +1,17 @@
+node_modules
+.DS_Store
+*.log
+backup
+bin-debug
+bin-release
+.editorconfig
+output/public
+.next
+.idea/
+*.pem
+dist-dev/
+dist-xhs/
+pc-dev/
+mobile-dev/
+package-lock.json
+public-dev/
